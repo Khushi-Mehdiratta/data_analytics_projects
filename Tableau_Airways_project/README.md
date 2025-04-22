@@ -6,7 +6,15 @@ This Tableau project presents an interactive dashboard built to analyze British 
 
 - **Visualization Type**: Interactive Tableau Dashboard
 - **Dataset**: British Airways in-flight entertainment data
-- **Tool Used**: Tableau
+- **Tool Used**: Excel (for cleaning), Tableau (for visualization)
+
+## 🧹 Data Preparation
+
+Before building the dashboard, I cleaned and prepared the dataset using **Microsoft Excel**. Key Excel functions and techniques used include:
+
+- `VLOOKUP` and `XLOOKUP` to merge and align data from different sheets
+- `IF` for data validation
+- Removal of duplicates, handling of nulls, and column standardization
 
 ## 🔍 Key Features
 
@@ -32,6 +40,7 @@ This project demonstrates the power of **data storytelling** using Tableau, comb
 
 ## 📌 Skills Showcased
 
+- Data Cleaning with Excel
 - Data Visualization  
 - Dashboard Design  
 - Interactivity with Filters & Tooltips  
