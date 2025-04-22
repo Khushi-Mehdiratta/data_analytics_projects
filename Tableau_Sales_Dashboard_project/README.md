@@ -1,4 +1,4 @@
-# 📈 Sales Dashboard | 2023
+# 📈 Sales Dashboard 
 
 This Tableau project visualizes sales, profit, and quantity trends for the current and previous year using interactive and comparative charts. The dashboard offers a clear snapshot of performance metrics across months and product subcategories.
 
