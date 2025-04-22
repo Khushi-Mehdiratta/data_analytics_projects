@@ -2,6 +2,8 @@
 
 This Tableau project visualizes sales, profit, and quantity trends for the current and previous year using interactive and comparative charts. The dashboard offers a clear snapshot of performance metrics across months and product subcategories.
 
+I have also uploaded the datasets used in this project for reference.
+
 ## 📊 Key Metrics
 
 - **Total Sales**
