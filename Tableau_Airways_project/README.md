@@ -1,4 +1,4 @@
-# ✈️ British Airways Entertainment Analysis Dashboard (Tableau)
+# ✈️ British Airways Entertainment Analysis Dashboard (Excel + Tableau)
 
 This Tableau project presents an interactive dashboard built to analyze British Airways' in-flight entertainment trends. The aim is to uncover insights about content consumption patterns across time and geography, helping stakeholders make data-driven decisions to improve customer experience.
 
